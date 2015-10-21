@@ -1,5 +1,5 @@
 #Lecture 1
-##syntax for swift
+##features for swift
 
 objects are all in heap;
 
